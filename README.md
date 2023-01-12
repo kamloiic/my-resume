@@ -4,7 +4,6 @@
 
 you can see [PDF](https://raw.githubusercontent.com/kamloiic/my-resume/main/examples/resume.pdf)
 
-| Page. 1 | 
 |:---:|
 | [![résumé](https://raw.githubusercontent.com/kamloiic/my-resume/main/examples/resume.png)](https://raw.githubusercontent.com/kamloiic/my-resume/main/examples/resume.pdf)  | 
 
@@ -16,7 +15,7 @@ you can see [PDF](https://raw.githubusercontent.com/kamloiic/my-resume/main/exam
 
 #### requirements
 
-A full tex distribution is assumed.
+a full tex distribution is assumed or can be found [here](https://tex.stackexchange.com/questions/55437/how-do-i-update-my-tex-distribution) 
 
 if you don't want to install the dependencies on your system, this can also be obtained via [docker](https://docker.com).
 
