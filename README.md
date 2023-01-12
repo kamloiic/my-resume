@@ -4,6 +4,7 @@
 
 you can see [PDF](https://raw.githubusercontent.com/kamloiic/my-resume/main/examples/resume.pdf)
 
+| Page | 
 |:---:|
 | [![résumé](https://raw.githubusercontent.com/kamloiic/my-resume/main/examples/resume.png)](https://raw.githubusercontent.com/kamloiic/my-resume/main/examples/resume.pdf)  | 
 
