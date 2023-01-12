@@ -10,7 +10,7 @@ you can see [PDF](https://raw.githubusercontent.com/kamloiic/my-resume/main/exam
 
 ## quick start
 
-* [**edit résumé on overleaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
+* [**edit résumé on overleaf.com**](https://www.overleaf.com/3878524163rfjkcqjjtwcs)
 
 ## how to use
 
